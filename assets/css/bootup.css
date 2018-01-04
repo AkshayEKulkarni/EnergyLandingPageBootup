@@ -1,0 +1,352 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto');
+body{
+	font-family: 'Roboto', sans-serif;
+	overflow-x: hidden;
+}
+.header-container-energy-image{
+    background-image: url("../images/top-banner.png");
+    width: 100%;
+    height: 540px;
+    padding: 0px 112px;
+	background-repeat: round;
+}
+.header-container-bootup-image{
+    margin: 75px 0px;
+}
+.header-container-text{
+	color: #ffcc00;
+	line-height: 57px;
+	font-weight: 700;
+	font-size: 53px;
+    margin: 0px 290px 0px 0px;
+}
+.header-container-paragraph{
+    color: #ffffff;
+    line-height: 25px;
+    font-weight: 300;
+    font-size: 15px;
+    margin: 30px 0px 0px 0px;
+}
+.average-investment-container{
+	background-color: #eff1f4;
+    padding: 0px 150px;
+}
+.average-investment-container-text{
+	color: #333333;
+	font-weight: 400;
+	font-size: 20px;
+	text-align: center;
+    margin: 50px 0px 0px 0px;
+}
+.average-investment-container-text span{
+	font-weight: 400;
+	color: #cc3300;
+	font-size: 30px;
+}
+.average-investment-container-image{
+    margin: 50px 0px 0px 52px;
+}
+.average-investment-container-text1{
+	color: #333333;
+	font-weight: 400;
+	font-size: 20px;
+	text-align: center;
+    margin: 80px 0px 0px 55px;
+}
+.average-investment-container-text1 span{
+	font-weight: 400;
+	color: #cc3300;
+	font-size: 30px;
+}
+.average-investment-container-image1{
+    margin: 35px 0px 0px 0px;
+}
+.ai-in-energy-container-text{
+	color: #333333;
+	font-size: 45px;
+	font-weight: 700;
+	text-align: center;
+	margin: 20px 0px 0px 0px;
+}
+.ai-in-energy-container-all-blocks{
+    padding: 0px 235px;
+}
+.ai-in-energy-container-all-blocks-text{
+	background-color: #4689f4;
+	color: #ffffff;
+	width: 48%;
+}
+.ai-in-energy-container-all-blocks-text p{
+	font-size: 2px;
+}
+.ai-in-energy-container-all-blocks-text h6{
+	font-size: 20px;
+	margin:0px;
+}
+.building-energy-mgmt{
+    margin: 13px 0px 0px 0px;
+}
+.power-generations-image > img{
+    width: 362px;
+    height: 196px;
+}
+.building-energy-mgmt-system-image > img{
+	height: 260px;
+}
+.electric-vehicle-text{
+    margin: 13px 0px 0px 0px;
+}
+.electric-vehicle-image{
+    margin: 13px 0px 0px 0px;
+}
+.electric-vehicle-image > img{
+	width: 363px;
+    height: 234px;
+}
+.energy-2025-container{
+    padding: 0px 167px;
+    background-color: #eff1f4;
+    margin: 20px 0px 0px 0px;
+}
+.energy-2025-text > h4{
+    text-align: center;
+    font-size: 26px;
+    font-weight: 700;
+    margin: 30px 0px 0px 0px;
+}
+.energy-2025-paragraph{
+    margin: 10px 0px 0px 0px;
+    text-align: center;
+}
+.energy-2025-blocks{
+    margin: 0px 0px 20px 0px;
+}
+.energy-2025-blocks img{
+	margin: 0px 0px 0px 50px;
+}
+.energy-2025-blocks h4{
+	font-weight: 700;
+	margin: 20px 0px;
+	text-align: center;
+}
+.energy-2025-blocks ul{
+	padding: 0px;
+}
+.benefits-of-ai{
+	background-image: url("../images/depositphotos-19663449-original.png");
+	width: 100%;
+    height: 447px;
+    margin: 0px;
+}
+.benefits-of-ai h1{
+	color: #ff9900;
+	font-weight: 700;
+	font-size: 45px;
+	text-align: center;
+	margin: 80px 0px 0px 0px;
+}
+.benefits-of-ai-block{
+	color: #111111;
+    margin: 40px 0px 0px 231px;
+}
+.use-of-ai{
+	text-align: center;
+}
+.shawn-chandler{
+	text-align: right;
+}
+.how-bootup-helps{
+	background-color: #eff1f4;
+}
+.how-bootup-helps-text{
+	text-align: center;
+}
+.how-bootup-helps-text h1{
+	color: #333333;
+	font-weight: 900;
+}
+.how-bootup-helps-text1{
+	text-align: center;
+	color: #81aaff;
+}
+.how-bootup-helps-text1 h2{
+	font-weight: 700;
+}
+.how-bootup-helps-paragraph{
+    text-align: center;
+    padding: 0px 262px;
+    font-weight: 300;
+    line-height: 33px;
+}
+.how-bootup-helps-blocks{
+    margin: 30px 0px 0px 170px;
+}
+.how-bootup-helps-blocks h5{
+	text-align: center;
+	font-weight: 700;
+	margin: 15px 0px 15px 0px;
+}
+.images-tile{
+    background-color: #eff1f4;
+}
+.images-tile-block{
+	margin: 40px 0px 0px 0px;
+    background-color: #eff1f4;
+    padding: 0px 45px;
+    height: 100px;
+}
+.images-tile-image{
+    float: left;
+    margin: 30px 0px;
+}
+.images-tile-image img{
+	margin: 0px 30px 0px 0px;
+}
+.images-tile-image1 img{
+    margin: 10px 30px 0px 0px;
+}
+.images-tile-image2 img{
+    margin: 10px 30px 0px 0px;	
+}
+/*phase*/
+.phase{
+	margin:15px !important;
+}
+.phase h4{
+	text-align: center;
+	padding-top: 40px;
+	color: #999999;
+	font-size: 20px;
+	padding-bottom: 20px;
+}
+.build_phase_block{
+	background: #8282ff;
+}
+.build_phase_block h5,.growth_phase_block h5{
+	text-align: center;
+	font-size: 17px;
+	color: #ffffff;
+	padding-top: 10px;
+}
+.growth_phase_block{
+	background: #ff8b82;
+}
+.space_block{
+	margin-right: 10px;
+}
+.infrastructure_block{
+	background: #9999ff;
+	margin-top: 2px;
+	padding: 20px 10px 0px 0px;
+	height: 200px;
+	color: #ffffff;
+}
+.networking_event_block{
+	background: #ffa199;
+	margin-top: 2px;
+	padding: 20px 10px 0px 15px;
+	height: 200px;
+	color: #ffffff;
+}
+.list_block{
+	list-style-type: none;
+}
+/**/
+.secondphase .future img{
+	height: 320px;
+	width:324px;
+}
+.secondphase .future img{
+	border: 1px solid #b3b1b1;
+	padding: 23px;
+	margin-left: 217px;
+	margin-top: 20px;
+}
+.secondphase .report h5{
+	font-size: 37px;
+	font-weight: 300px;
+	margin-left: 258px;
+	width: 365px;
+	margin-top: 112px;
+}
+.secondphase .report button{
+	background-color: #5baa00;
+	border: none;
+	margin-left: 299px;
+	/* margin-bottom: 45px; */
+	margin-top: 24px;
+	width: 280px;
+	height: 69px;
+	border-radius: 4px;
+	font-size: 25px;
+}
+.secondphase .report button{
+	background-color: #5baa00;
+	border: none;
+	margin-left: 299px;
+	/* margin-bottom: 45px; */
+	margin-top: 24px;
+	width: 280px;
+	height: 69px;
+	border-radius: 4px;
+	font-size: 25px;
+}
+.secondphase .report .button{
+	border: none;
+}
+/**/
+.more_information_block>p{
+	padding: 40px 0px 20px 0px;
+	font-size: 25px;
+	text-align: center;
+	color: white;
+}
+.get_in_touch{
+	background: #333333;
+}
+.details_block{
+	padding: 50px 100px;
+}
+.details{
+	border-right: 1px solid #000000;
+	color: #ffffff;
+	text-align: center;
+}
+.details>h2,.contact_address>h2{
+	font-size: 40px;
+	padding-bottom: 20px;
+	color: #ffffff;
+}
+input{
+	width: 55%;
+	border: none;
+	background: #333333;
+	border-bottom: 1px solid #f90;
+	padding: 20px 0px 0px 0px;
+	width: 385px;
+}
+input[type='text']{
+	margin-bottom: 40px;
+}
+/*input::placeholder{
+	
+}*/
+input::-webkit-input-placeholder {
+  color: #f90;
+  font-size: 16px;
+}
+.details>form>.button_block{
+	padding: 10px 172px;
+	background:#f90;
+	border: none; 
+	font-size: 25px;
+	width: 390px;
+}
+.contact_us_block{
+	margin: 170px 10px 0px 80px;
+}
+address{
+	color: #ffffff;
+	font-size: 20px;
+	padding:20px 0px 0px 10px;
+}
