@@ -3,6 +3,9 @@ body{
 	font-family: 'Roboto', sans-serif;
 	/*overflow-x: hidden;*/
 }
+:focus{
+	outline: -webkit-focus-ring-color auto 0px !important;
+}
 .header-container-energy-image{
     background-image: url("../images/top-banner.png");
     width: 100%;
