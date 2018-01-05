@@ -68,41 +68,6 @@ body{
 	text-align: center;
 	margin: 20px 0px 0px 0px;
 }
-.ai-in-energy-container-all-blocks{
-    padding: 0px 235px;
-}
-.ai-in-energy-container-all-blocks-text{
-	background-color: #4689f4;
-	color: #ffffff;
-	width: 48%;
-}
-.ai-in-energy-container-all-blocks-text p{
-	font-size: 2px;
-}
-.ai-in-energy-container-all-blocks-text h6{
-	font-size: 20px;
-	margin:0px;
-}
-.building-energy-mgmt{
-    margin: 13px 0px 0px 0px;
-}
-.power-generations-image > img{
-    width: 362px;
-    height: 196px;
-}
-.building-energy-mgmt-system-image > img{
-	height: 260px;
-}
-.electric-vehicle-text{
-    margin: 13px 0px 0px 0px;
-}
-.electric-vehicle-image{
-    margin: 13px 0px 0px 0px;
-}
-.electric-vehicle-image > img{
-	width: 363px;
-    height: 234px;
-}
 .energy-2025-container{
     padding: 0px 167px;
     background-color: #eff1f4;
@@ -349,4 +314,105 @@ address{
 	color: #ffffff;
 	font-size: 20px;
 	padding:20px 0px 0px 10px;
+}
+@media only screen and (max-width: 768px) {
+	body{
+		overflow-x: hidden;
+	}
+	.header-container-energy-image{
+		padding: 0px 50px;
+	}
+	.average-investment-container{
+		padding: 0px 10px;
+	}
+	.average-investment-container-image{
+		margin: 35px 0px 0px 30px;
+	}
+	.average-investment-container-text1{
+    	margin: 100px 0px 0px 60px;
+	}
+	.energy-2025-blocks img{
+	    margin: 0px 0px 0px 100px;
+	}
+	.benefits-of-ai-block{
+	    margin: 40px 0px 0px 150px;
+	}
+	.benefits-of-ai h1{
+	    margin: 20px 0px 0px 0px;
+	}
+	.how-bootup-helps-paragraph{
+	    padding: 0px 90px;
+	}
+	.how-bootup-helps-blocks{
+	    margin: 10px 10px 20px 90px;
+	}
+	.how-bootup-helps-blocks h5{
+	    margin: 15px 34px 15px 0px;
+	}
+	.phase_block{
+	    margin: 0px 0px 0px 10px;
+	}
+	.growth_phase_block, .networking_event_block{
+		width: 700px;
+	}
+	.report h5{
+    	margin: 40px 0px 10px 200px !important;
+	}
+	.report button{
+	    margin: 0px 0px 0px 240px !important;
+	}
+	.images-tile-block{
+		height: 220px;
+	}
+	.images-tile-image img{
+	    margin: 0px 35px 0px 0px;
+	}
+	.contact_us_block{
+	    margin: 0px 10px 0px 280px;
+	}
+	.details{
+		border: none;
+	}
+}
+
+
+.al-eg-section{
+	margin-left: 8px;
+}
+.al-eg-section img{
+	width: 100%;
+	height: 329px;
+}
+.ai-eg-text{
+	background-color: #4689f4;
+	padding: 70px;
+	height: 329px;
+	color: #ffffff;
+}
+.al-eg-margbottom{
+	margin-bottom: 10px;
+}
+.ai-example-building{
+    width: 620px;
+    margin-left: 15px;
+}
+.ai-eg-text h6{
+	font-size: 20px;
+}
+@media only screen and (max-width: 768px) {
+	.al-eg-section{
+		margin-left: 8px;
+	}
+	.ai-example-building{
+	    margin-left: 14px;
+	    width: 329px;
+        height: 380px;
+	}
+	.ai-eg-text{
+		padding: 28px;
+		color: #ffffff;
+	}
+	.ai-eg-text h6{
+		font-size: 20px;
+	}
 }
