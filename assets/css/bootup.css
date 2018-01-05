@@ -22,9 +22,9 @@ body{
 }
 .header-container-paragraph{
     color: #ffffff;
-    line-height: 25px;
+    line-height: 30px;
     font-weight: 300;
-    font-size: 15px;
+    font-size: 17px;
     margin: 30px 0px 0px 0px;
 }
 .average-investment-container{
@@ -37,6 +37,9 @@ body{
 	font-size: 20px;
 	text-align: center;
     margin: 50px 0px 0px 0px;
+}
+.average-investment-container-text p{
+    width: 396px;
 }
 .average-investment-container-text span{
 	font-weight: 400;
