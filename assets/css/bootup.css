@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css?family=Roboto');
 body{
 	font-family: 'Roboto', sans-serif;
-	overflow-x: hidden;
+	/*overflow-x: hidden;*/
 }
 .header-container-energy-image{
     background-image: url("../images/top-banner.png");
@@ -114,8 +114,15 @@ body{
 	color: #111111;
     margin: 40px 0px 0px 231px;
 }
+.benefits-of-ai-block ul{
+    padding: 0px 8px;
+}
+.benefits-of-ai-block span{
+	margin: 0px 0px 0px 40px;
+}
 .use-of-ai{
 	text-align: center;
+	margin: 0px 0px 0px 20px;
 }
 .shawn-chandler{
 	text-align: right;
@@ -144,7 +151,7 @@ body{
     line-height: 33px;
 }
 .how-bootup-helps-blocks{
-    margin: 30px 0px 0px 170px;
+    margin: 30px 0px 0px 200px;
 }
 .how-bootup-helps-blocks h5{
 	text-align: center;
@@ -317,7 +324,7 @@ address{
 }
 @media only screen and (max-width: 768px) {
 	body{
-		overflow-x: hidden;
+		/*overflow-x: hidden;*/
 	}
 	.header-container-energy-image{
 		padding: 0px 50px;
@@ -385,9 +392,10 @@ address{
 }
 .ai-eg-text{
 	background-color: #4689f4;
-	padding: 70px;
+	padding: 55px 50px;
 	height: 329px;
 	color: #ffffff;
+    line-height: 28px;
 }
 .al-eg-margbottom{
 	margin-bottom: 10px;
@@ -415,4 +423,19 @@ address{
 	.ai-eg-text h6{
 		font-size: 20px;
 	}
+}
+@media only screen and (max-width: 425px){
+	/*body{
+		overflow-x: hidden;
+	}*/
+	.header-container-energy-image{
+		height: 740px;
+	}
+	.header-container-bootup-image{
+	    margin: 32px 0px;
+	}
+	.header-container-paragraph p{
+		height: 180px;
+	}
+
 }
